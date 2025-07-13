@@ -41,9 +41,9 @@
 
 ### 📫 Contacto
 
-📧 **brunorios.dev@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario) (si tenés)  
-🌐 Portfolio (próximamente)
+📧 **brunorioscorp4@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/bruno-rios-576016328/)
+🌐 Portfolio 
 
 ---
 
