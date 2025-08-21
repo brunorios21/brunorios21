@@ -70,6 +70,6 @@ Quiero formar parte de proyectos donde pueda aplicar mis conocimientos y seguir 
 
 ## Contacto
 
-- 💼 [Mi LinkedIn](#)  
+- 💼 [Mi LinkedIn](https://www.linkedin.com/in/bruno-rios-576016328/)
 - 📧 brunorioscorp4@gmail.com  
 - 🌐 [ proyectos](#)  
