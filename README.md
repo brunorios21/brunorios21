@@ -71,5 +71,5 @@ Quiero formar parte de proyectos donde pueda aplicar mis conocimientos y seguir 
 ## Contacto
 
 - 💼 [Mi LinkedIn](#)  
-- 📧 brunorios@email.com  
+- 📧 brunorioscorp4@gmail.com  
 - 🌐 [ proyectos](#)  
