@@ -1,61 +1,75 @@
-<h1 align="center">¡Hola! Soy Bruno Ríos</h1>
+<h1 align="center">¡Hola! Soy Bruno Ríos 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Flask-framework-black?logo=flask" />
-  <img src="https://img.shields.io/badge/PostgreSQL-database-blue?logo=postgresql" />
-  <img src="https://img.shields.io/badge/Docker-container-lightblue?logo=docker" />
+  <!-- Lenguajes de programación -->
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-17-red?logo=java&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-14-blue?logo=c%2B%2B&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" />
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3" />
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5" />
-  <img src="https://img.shields.io/badge/Java-17-red?logo=java" />
+  <!-- Frameworks y librerías -->
+  <img src="https://img.shields.io/badge/Flask-framework-black?logo=flask&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-framework-green?logo=django&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-framework-blue?logo=react&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-backend-green?logo=node.js&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bootstrap-framework-purple?logo=bootstrap&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-framework-blue?logo=react" />
-  <img src="https://img.shields.io/badge/Bootstrap-framework-purple?logo=bootstrap" />
-  <img src="https://img.shields.io/badge/Node.js-backend-green?logo=node.js" />
-  <img src="https://img.shields.io/badge/Git-versioncontrol-red?logo=git" />
+  <!-- Bases de datos -->
+  <img src="https://img.shields.io/badge/PostgreSQL-database-blue?logo=postgresql&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-database-blue?logo=mysql&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-database-green?logo=mongodb&style=for-the-badge" />
 </p>
 
-Estudiante de **Gestión de las Tecnologías de la Información** en la **UNPAZ**  
-Apasionado por la programación, la automatización y la creación de soluciones a medida  
-Actualmente desarrollando proyectos con Python, Flask, PostgreSQL y Docker  
-Siempre en búsqueda de nuevos desafíos para aprender y aplicar mis conocimientos
+<p align="center">
+  <!-- Herramientas y tecnologías -->
+  <img src="https://img.shields.io/badge/Docker-container-lightblue?logo=docker&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-versioncontrol-red?logo=git&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-os-black?logo=linux&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS%20Code-editor-blue?logo=visual-studio-code&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <!-- Curso UTN -->
+  <a href="https://cursos.utnba.centrodeelearning.com/">
+    <img src="https://img.shields.io/badge/Curso-UTN-blueviolet?logo=utn&style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Metodologías y áreas de interés -->
+  <img src="https://img.shields.io/badge/Agile-methodology-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-practices-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-teams-lightgrey?style=for-the-badge" />
+</p>
+---
+
+## Sobre mí
+
+Soy un apasionado de la **programación**, la **tecnología** y la **ingeniería de software**. Me encanta dedicar horas a aprender, desarrollar y mejorar mis habilidades en distintos lenguajes y frameworks.  
+
+- Me especializo en **Python, Flask, SQL y Docker**.  
+- También disfruto trabajando con **JavaScript, HTML, CSS, Java, React y Node.js**.  
+- Soy un entusiasta de **Linux** y me gusta explorar su ecosistema y herramientas.  
+- Tengo gran interés en **metodologías ágiles**, gestión de proyectos y colaboración en equipos de desarrollo.  
+- Me encanta el mundo de **redes y sistemas**, entendiendo cómo las aplicaciones interactúan a nivel de infraestructura.  
 
 ---
 
-### Tecnologías y herramientas
+## Qué busco
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+Quiero formar parte de proyectos donde pueda aplicar mis conocimientos y seguir creciendo profesionalmente, contribuyendo con soluciones eficientes, escalables y modernas. Me motiva mucho **el aprendizaje constante**, la innovación y el desarrollo de software de calidad.
 
 ---
 
-### Proyectos destacados
+## Contacto
 
-- **Introducción a la Programación** → Ejercicios y modelos en Python básicos y avanzados
-- **Restaurant_DB** → Sistema de gestión de restaurantes con Flask + PostgreSQL + Docker
-- **WebFusion** → Página web personal de servicios de desarrollo web y automatización
-- **MvGlow** → Página web dedicada a cliente
----
-
-### Contacto
-
-📧 **brunorioscorp4@gmail.com**  
-🔗  [LinkedIn](https://www.linkedin.com/in/bruno-rios-576016328/)
-
----
-
-_Gracias por visitar mi perfil _
+- 💼 [Mi LinkedIn](#)  
+- 📧 brunorios@email.com  
+- 🌐 [ proyectos](#)  
