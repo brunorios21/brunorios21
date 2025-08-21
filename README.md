@@ -36,14 +36,13 @@ Siempre en búsqueda de nuevos desafíos para aprender y aplicar mis conocimient
 - **Introducción a la Programación** → Ejercicios y modelos en Python básicos y avanzados
 - **Restaurant_DB** → Sistema de gestión de restaurantes con Flask + PostgreSQL + Docker
 - **WebFusion** → Página web personal de servicios de desarrollo web y automatización
-
+- **MvGlow** → Página web dedicada a cliente
 ---
 
 ### Contacto
 
 📧 **brunorioscorp4@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/bruno-rios-576016328/)
-🌐 Portfolio 
+🔗  [LinkedIn](https://www.linkedin.com/in/bruno-rios-576016328/)
 
 ---
 
