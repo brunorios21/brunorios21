@@ -7,7 +7,19 @@
   <img src="https://img.shields.io/badge/Docker-container-lightblue?logo=docker" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3" />
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5" />
+  <img src="https://img.shields.io/badge/Java-17-red?logo=java" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-framework-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Bootstrap-framework-purple?logo=bootstrap" />
+  <img src="https://img.shields.io/badge/Node.js-backend-green?logo=node.js" />
+  <img src="https://img.shields.io/badge/Git-versioncontrol-red?logo=git" />
+</p>
 
 Estudiante de **Gestión de las Tecnologías de la Información** en la **UNPAZ**  
 Apasionado por la programación, la automatización y la creación de soluciones a medida  
