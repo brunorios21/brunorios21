@@ -55,7 +55,7 @@
 Soy un apasionado de la **programación**, la **tecnología** y la **ingeniería de software**. Me encanta dedicar horas a aprender, desarrollar y mejorar mis habilidades en distintos lenguajes y frameworks.  
 
 - Me especializo en **Python, Flask, SQL y Docker**.  
-- También disfruto trabajando con **JavaScript, HTML, CSS, Java, React y Node.js**.  
+- También disfruto trabajando con **JavaScript, HTML, CSS, React y Node.js**.  
 - Soy un entusiasta de **Linux** y me gusta explorar su ecosistema y herramientas.  
 - Tengo gran interés en **metodologías ágiles**, gestión de proyectos y colaboración en equipos de desarrollo.  
 - Me encanta el mundo de **redes y sistemas**, entendiendo cómo las aplicaciones interactúan a nivel de infraestructura.  
