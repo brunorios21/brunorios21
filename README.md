@@ -78,7 +78,7 @@ Me encanta dedicar horas a **aprender**, **crear soluciones** y **experimentar c
 ## Visualización de Habilidades
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','JavaScript','SQL','Docker','React'],datasets:[{data:[35,25,20,10,10]}]},options:{plugins:{legend:{labels:{color:'white',font:{size:14}}}}}}" width="400" alt="Skill Chart" />
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','JavaScript','SQL','Docker','React'],datasets:[{data:[35,12,20,10,10]}]},options:{plugins:{legend:{labels:{color:'white',font:{size:14}}}}}}" width="400" alt="Skill Chart" />
 </p>
 
 <p align="center">
