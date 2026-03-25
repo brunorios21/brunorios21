@@ -127,54 +127,50 @@ Me motiva el **aprendizaje constante**, la **calidad del código** y el **impact
 </p>
 
 ---
----
 
-## Proyecto Integrador: PC Tech Store - Talento Tech Buenos Aires
+## Proyecto Integrador: PC Tech | Hardware Profesional - Talento Tech Buenos Aires
 
 <p align="center">
-  <a href="https://github.com/brunorios21/pc-tech-store">
-    <img src="https://i.ibb.co/v6YmXm7/pc-tech-screenshot.jpg" alt="PC Tech Store Interface" width="900" style="border-radius: 8px; border: 1px solid #30363d;">
+  <a href="https://brunorios21.github.io/Entrega-Final-Talento-Tech/">
+    <img src="https://raw.githubusercontent.com/brunorios21/Entrega-Final-Talento-Tech/main/screenshot.jpg" alt="PC Tech Interface" width="900" style="border-radius: 8px; border: 1px solid #30363d;">
   </a>
 </p>
 
 ### Especificaciones del Desarrollo
-Este sistema de E-commerce especializado en hardware de alto rendimiento fue desarrollado bajo el programa **Talento Tech**. La arquitectura se centra en la eficiencia de la interfaz y el manejo dinámico de un catálogo de productos mediante estructuras de datos optimizadas en JavaScript.
+Este sistema representa la **Entrega Final** del curso **Front-End JS** dictado en **Buenos Aires** por el programa **Talento Tech**. La plataforma es una solución integral de E-commerce para hardware de alto rendimiento, optimizada para una navegación fluida y una gestión de datos reactiva.
 
 ---
 
-## Análisis Técnico y Fundamentos de Programación
+## Análisis Técnico y Fundamentos de Programación (JS)
 
-La implementación de este proyecto se basó en los siguientes pilares técnicos discutidos en la formación:
+La arquitectura de este proyecto aplica los conceptos core de JavaScript moderno desarrollados durante el trayecto formativo:
 
-### 1. Gestión de Estado mediante Objetos Literales
-Se utilizó la definición de objetos literales para la representación de componentes. Esta metodología permite encapsular atributos (precio, stock, categoría) y comportamientos en una única unidad lógica.
-* **Acceso Dinámico:** Implementación de la notación de corchetes `objeto[key]` para permitir búsquedas y filtrados basados en variables dinámicas capturadas desde la interfaz de usuario.
-* **Objetos Anidados:** Organización jerárquica de la información técnica del hardware, facilitando la escalabilidad del catálogo.
+### 1. Gestión de Datos mediante Objetos Literales
+Se implementó una estructura de datos basada en objetos para la representación técnica de cada componente del catálogo.
+* **Encapsulamiento:** Agrupación de atributos críticos (precio, stock, descripción) dentro de una única unidad lógica.
+* **Acceso Dinámico:** Uso de notación de corchetes `objeto[key]` para permitir la búsqueda de propiedades mediante variables dinámicas, facilitando la interacción entre la interfaz y la lógica de negocio.
 
 ### 2. Procesamiento de Colecciones: Paradigma Funcional
-Se evitó el uso de estructuras iterativas pesadas (bucles for) en favor de métodos de orden superior (Higher-Order Functions) para el procesamiento del array de productos:
-* **Método `.filter()`**: Implementación de filtros combinados mediante operadores lógicos para segmentar productos por precio, marca y disponibilidad de forma simultánea.
-* **Método `.find()`**: Optimización de la recuperación de datos para la vista de detalle de producto, garantizando una complejidad temporal mínima al detener la búsqueda tras la primera coincidencia.
+Se priorizó el uso de métodos de orden superior (Higher-Order Functions) para garantizar un código declarativo y eficiente:
+* **Método `.filter()`**: Implementación de lógica de filtrado multivariable (precio, categoría y disponibilidad) mediante el uso de operadores lógicos combinados.
+* **Método `.find()`**: Optimización en la recuperación de identificadores únicos para la gestión del carrito y detalles de producto, minimizando el impacto en el rendimiento al detener la iteración tras la primera coincidencia.
 
-### 3. Sintaxis Moderna y Contexto Léxico
-El uso de **Arrow Functions (Funciones Flecha)** en el filtrado de datos permitió:
-* Reducción de la verbosidad del código mediante retornos implícitos.
-* Mantenimiento de un código limpio (Clean Code) siguiendo los estándares de la industria actual.
-* Mejor manejo del scope en funciones de callback críticas para el renderizado dinámico.
+### 3. Sintaxis Moderna y Eficiencia (ES6+)
+* **Arrow Functions:** Implementación de funciones flecha para simplificar la sintaxis de los callbacks y mantener un contexto léxico claro.
+* **Clean Code:** Estructura de funciones modulares que separan la lógica de procesamiento de datos de la manipulación directa del DOM.
 
 ---
 
-### Stack Tecnológico Aplicado
-* **Lenguaje:** JavaScript ES6+ (Manipulación de DOM, Event Loop, Métodos de Array).
-* **Estructura:** HTML5 Semántico.
-* **Estilos:** CSS3 (Flexbox/Grid para el catálogo de productos).
-* **Certificación:** Talento Tech - Trayecto de Programación (Buenos Aires).
+### Acceso Directo al Proyecto
+* **Repositorio:** [github.com/brunorios21/Entrega-Final-Talento-Tech](https://github.com/brunorios21/Entrega-Final-Talento-Tech)
+* **Despliegue (Live Demo):** [PC Tech | Hardware Profesional](https://brunorios21.github.io/Entrega-Final-Talento-Tech/)
 
 <p align="center">
-  <a href="https://github.com/brunorios21/pc-tech-store">
-    <img src="https://img.shields.io/badge/Acceder_al_Repositorio-Link_Oficial-007bff?style=for-the-badge&logo=github" />
+  <a href="https://brunorios21.github.io/Entrega-Final-Talento-Tech/">
+    <img src="https://img.shields.io/badge/Visualizar_Proyecto-Live_Demo-007bff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
+---
 ---
 <h4 align="center">“La innovación nace del aprendizaje constante y la pasión por construir algo mejor.”</h4>
