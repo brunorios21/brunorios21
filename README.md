@@ -127,5 +127,54 @@ Me motiva el **aprendizaje constante**, la **calidad del código** y el **impact
 </p>
 
 ---
+---
 
+## Proyecto Integrador: PC Tech Store - Talento Tech Buenos Aires
+
+<p align="center">
+  <a href="https://github.com/brunorios21/pc-tech-store">
+    <img src="https://i.ibb.co/v6YmXm7/pc-tech-screenshot.jpg" alt="PC Tech Store Interface" width="900" style="border-radius: 8px; border: 1px solid #30363d;">
+  </a>
+</p>
+
+### Especificaciones del Desarrollo
+Este sistema de E-commerce especializado en hardware de alto rendimiento fue desarrollado bajo el programa **Talento Tech**. La arquitectura se centra en la eficiencia de la interfaz y el manejo dinámico de un catálogo de productos mediante estructuras de datos optimizadas en JavaScript.
+
+---
+
+## Análisis Técnico y Fundamentos de Programación
+
+La implementación de este proyecto se basó en los siguientes pilares técnicos discutidos en la formación:
+
+### 1. Gestión de Estado mediante Objetos Literales
+Se utilizó la definición de objetos literales para la representación de componentes. Esta metodología permite encapsular atributos (precio, stock, categoría) y comportamientos en una única unidad lógica.
+* **Acceso Dinámico:** Implementación de la notación de corchetes `objeto[key]` para permitir búsquedas y filtrados basados en variables dinámicas capturadas desde la interfaz de usuario.
+* **Objetos Anidados:** Organización jerárquica de la información técnica del hardware, facilitando la escalabilidad del catálogo.
+
+### 2. Procesamiento de Colecciones: Paradigma Funcional
+Se evitó el uso de estructuras iterativas pesadas (bucles for) en favor de métodos de orden superior (Higher-Order Functions) para el procesamiento del array de productos:
+* **Método `.filter()`**: Implementación de filtros combinados mediante operadores lógicos para segmentar productos por precio, marca y disponibilidad de forma simultánea.
+* **Método `.find()`**: Optimización de la recuperación de datos para la vista de detalle de producto, garantizando una complejidad temporal mínima al detener la búsqueda tras la primera coincidencia.
+
+### 3. Sintaxis Moderna y Contexto Léxico
+El uso de **Arrow Functions (Funciones Flecha)** en el filtrado de datos permitió:
+* Reducción de la verbosidad del código mediante retornos implícitos.
+* Mantenimiento de un código limpio (Clean Code) siguiendo los estándares de la industria actual.
+* Mejor manejo del scope en funciones de callback críticas para el renderizado dinámico.
+
+---
+
+### Stack Tecnológico Aplicado
+* **Lenguaje:** JavaScript ES6+ (Manipulación de DOM, Event Loop, Métodos de Array).
+* **Estructura:** HTML5 Semántico.
+* **Estilos:** CSS3 (Flexbox/Grid para el catálogo de productos).
+* **Certificación:** Talento Tech - Trayecto de Programación (Buenos Aires).
+
+<p align="center">
+  <a href="https://github.com/brunorios21/pc-tech-store">
+    <img src="https://img.shields.io/badge/Acceder_al_Repositorio-Link_Oficial-007bff?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
 <h4 align="center">“La innovación nace del aprendizaje constante y la pasión por construir algo mejor.”</h4>
