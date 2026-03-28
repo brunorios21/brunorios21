@@ -7,19 +7,19 @@
 
 ### Sobre mí
 
-Soy estudiante de la Universidad Nacional de José C. Paz (UNPAZ). Actualmente me encuentro en la etapa final de la carrera, cursando las últimas materias para obtener el título de Analista de Sistemas.
 
-Mi perfil combina el interés por el hardware con el desarrollo de software. Tengo experiencia en el armado y la optimización de equipos, lo que me permite comprender el funcionamiento del sistema desde la infraestructura hasta la aplicación. Debido a esto, trabajo habitualmente en entornos Linux y utilizo Docker para la gestión de contenedores.
+Soy estudiante avanzado de la carrera de **Analista de Sistemas** en la Universidad Nacional de José C. Paz (UNPAZ), actualmente en la etapa final de mi formación académica.
 
+Me apasiona la tecnología desde un enfoque integral, combinando conocimientos de **hardware** y **desarrollo de software**. Tengo experiencia en el armado, mantenimiento y optimización de equipos, lo que me permite comprender los sistemas desde la infraestructura hasta las aplicaciones.
+
+Siento un fuerte interés por el área de **redes**, donde busco seguir profundizando mis conocimientos, así como también en **bases de datos**, campo en el que me encuentro actualmente en proceso de aprendizaje.
+
+Trabajo habitualmente en entornos **Linux** y utilizo herramientas como **Docker** para la gestión de contenedores, desenvolviéndome en ambientes modernos de desarrollo.
+
+Actualmente, estoy ampliando mi stack tecnológico realizando un curso de **React** en **Talento Tech**, incorporando conocimientos en desarrollo frontend.
 * **Formación:** Completé el trayecto de Front-End JS en Talento Tech y actualmente me encuentro realizando una especialización en React.
 * **Enfoque actual:** Desarrollo de interfaces reactivas y gestión de estados complejos para mejorar la experiencia del usuario.
-* **Stack técnico:** Trabajo principalmente con el ecosistema de JavaScript y Python, priorizando siempre la escritura de código funcional y organizado.
-
----
-
-**Ubicación:** San Miguel, Buenos Aires  
-**Institución:** UNPAZ  
-**Aprendizaje actual:** React<p align="center">
+* **Stack técnico:** Trabajo principalmente con el ecosistema de JavaScript y Python, priorizando siempre la escritura de código funcional y organizado.<p align="center">
   <img src="https://komarev.com/ghpvc/?username=brunorios21&label=Perfil%20Visto&color=007bff&style=flat-square" alt="brunorios21" />
 </p>
 
