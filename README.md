@@ -6,7 +6,8 @@
 
 ## Sobre mí
 
-Soy estudiante avanzado de la carrera de **Analista de Sistemas** en la Universidad Nacional de José C. Paz (UNPAZ), actualmente en la etapa final de mi formación académica.
+
+Soy estudiante de la carrera de **Analista de Sistemas** en la Universidad Nacional de José C. Paz (UNPAZ), con una formación sólida en curso y en constante desarrollo.
 
 Me apasiona la tecnología desde un enfoque integral, combinando conocimientos de **hardware** y **desarrollo de software**. Tengo experiencia en el armado, mantenimiento y optimización de equipos, lo que me permite comprender los sistemas desde la infraestructura hasta las aplicaciones.
 
@@ -14,9 +15,7 @@ Tengo un fuerte interés en el área de **redes** y en **bases de datos**, donde
 
 Trabajo habitualmente en entornos **Linux** y utilizo **Docker** para la gestión de contenedores, lo que me permite desenvolverme en ambientes modernos de desarrollo.
 
-Actualmente, estoy ampliando mi stack tecnológico realizando un curso de **React** en **Talento Tech**, enfocado en el desarrollo frontend.
-
----
+Actualmente, me encuentro enfocado tanto en las **materias de la carrera** como en mi formación práctica, realizando un curso de **React** en **Talento Tech**, con el objetivo de consolidarme como desarrollador **Full Stack**.
 
 ## Formación y enfoque
 
