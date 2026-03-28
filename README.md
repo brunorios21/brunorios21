@@ -128,6 +128,18 @@ Me motiva el **aprendizaje constante**, la **calidad del código** y el **impact
 
 ---
 
+## Certificaciones Destacadas
+
+<p align="center">
+  <a href="https://openbadgefactory.com/obv3/credentials/c972421ddc8e8db451bb6df7a47ba453b02c346a" target="_blank">
+    <img src="badge-talento-tech.jpg" width="450" alt="Certificado Front-End JS Bruno Rios Talento Tech" style="border-radius: 10px;" />
+  </a>
+  <br>
+  <em>Hacé clic en la imagen para verificar la autenticidad del certificado.</em>
+</p>
+
+---
+
 ## Proyecto Integrador: PC Tech | Hardware Profesional - Talento Tech Buenos Aires
 
 <p align="center">
