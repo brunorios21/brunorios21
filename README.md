@@ -1,8 +1,25 @@
-<h1 align="center">¡Hola! Soy <span style="color:#007bff;">Bruno Ríos</span> </h1>
 
-<h3 align="center">Software Developer | Estudiante de Analista de Sistemas (UNPAZ)</h3>
+# Hola, soy Bruno Ríos!
 
-<p align="center">
+**Estudiante de Analista de Sistemas en la UNPAZ | Software Developer**
+
+---
+
+### Sobre mí
+
+Soy estudiante de la Universidad Nacional de José C. Paz (UNPAZ). Actualmente me encuentro en la etapa final de la carrera, cursando las últimas materias para obtener el título de Analista de Sistemas.
+
+Mi perfil combina el interés por el hardware con el desarrollo de software. Tengo experiencia en el armado y la optimización de equipos, lo que me permite comprender el funcionamiento del sistema desde la infraestructura hasta la aplicación. Debido a esto, trabajo habitualmente en entornos Linux y utilizo Docker para la gestión de contenedores.
+
+* **Formación:** Completé el trayecto de Front-End JS en Talento Tech y actualmente me encuentro realizando una especialización en React.
+* **Enfoque actual:** Desarrollo de interfaces reactivas y gestión de estados complejos para mejorar la experiencia del usuario.
+* **Stack técnico:** Trabajo principalmente con el ecosistema de JavaScript y Python, priorizando siempre la escritura de código funcional y organizado.
+
+---
+
+**Ubicación:** San Miguel, Buenos Aires  
+**Institución:** UNPAZ  
+**Aprendizaje actual:** React<p align="center">
   <img src="https://komarev.com/ghpvc/?username=brunorios21&label=Perfil%20Visto&color=007bff&style=flat-square" alt="brunorios21" />
 </p>
 
