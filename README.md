@@ -1,44 +1,34 @@
-
-# Hola, soy Bruno Ríos!
+# Hola, soy Bruno Ríos
 
 **Estudiante de Analista de Sistemas en la UNPAZ | Software Developer**
 
 ---
 
-### Sobre mí
-
+## Sobre mí
 
 Soy estudiante avanzado de la carrera de **Analista de Sistemas** en la Universidad Nacional de José C. Paz (UNPAZ), actualmente en la etapa final de mi formación académica.
 
 Me apasiona la tecnología desde un enfoque integral, combinando conocimientos de **hardware** y **desarrollo de software**. Tengo experiencia en el armado, mantenimiento y optimización de equipos, lo que me permite comprender los sistemas desde la infraestructura hasta las aplicaciones.
 
-Siento un fuerte interés por el área de **redes**, donde busco seguir profundizando mis conocimientos, así como también en **bases de datos**, campo en el que me encuentro actualmente en proceso de aprendizaje.
+Tengo un fuerte interés en el área de **redes** y en **bases de datos**, donde continúo formándome y profundizando conocimientos.
 
-Trabajo habitualmente en entornos **Linux** y utilizo herramientas como **Docker** para la gestión de contenedores, desenvolviéndome en ambientes modernos de desarrollo.
+Trabajo habitualmente en entornos **Linux** y utilizo **Docker** para la gestión de contenedores, lo que me permite desenvolverme en ambientes modernos de desarrollo.
 
-Actualmente, estoy ampliando mi stack tecnológico realizando un curso de **React** en **Talento Tech**, incorporando conocimientos en desarrollo frontend.
-* **Formación:** Completé el trayecto de Front-End JS en Talento Tech y actualmente me encuentro realizando una especialización en React.
-* **Enfoque actual:** Desarrollo de interfaces reactivas y gestión de estados complejos para mejorar la experiencia del usuario.
-* **Stack técnico:** Trabajo principalmente con el ecosistema de JavaScript y Python, priorizando siempre la escritura de código funcional y organizado.<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brunorios21&label=Perfil%20Visto&color=007bff&style=flat-square" alt="brunorios21" />
-</p>
+Actualmente, estoy ampliando mi stack tecnológico realizando un curso de **React** en **Talento Tech**, enfocado en el desarrollo frontend.
 
 ---
 
-## Certificación Destacada
-<p align="center">
-  <a href="https://openbadgefactory.com/obv3/credentials/c972421ddc8e8db451bb6df7a47ba453b02c346a" target="_blank">
-    <img src="badge-talento-tech.png" width="450" alt="Certificado Talento Tech Bruno Rios" style="border-radius: 10px; border: 2px solid #007bff;" />
-  </a>
-  <br>
-  <em>Insignia Oficial de <b>Front-End JS</b> emitida por el Ministerio de Educación (Talento Tech).</em>
-</p>
+## Formación y enfoque
+
+- **Formación:** Completé el trayecto de Front-End JS en Talento Tech y actualmente me encuentro especializándome en React.
+- **Enfoque actual:** Desarrollo de interfaces reactivas y gestión de estados para mejorar la experiencia de usuario.
+- **Stack principal:** JavaScript y Python, priorizando código limpio, modular y mantenible.
 
 ---
 
-##  Stack Tecnológico
+## Stack Tecnológico
 
-###  Frontend
+### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -47,7 +37,7 @@ Actualmente, estoy ampliando mi stack tecnológico realizando un curso de **Reac
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-###  Backend & Bases de Datos
+### Backend y Bases de Datos
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -56,7 +46,7 @@ Actualmente, estoy ampliando mi stack tecnológico realizando un curso de **Reac
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Infraestructura & Herramientas
+### Infraestructura y Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -66,7 +56,20 @@ Actualmente, estoy ampliando mi stack tecnológico realizando un curso de **Reac
 
 ---
 
-## Estadísticas Reales de GitHub
+## Certificación destacada
+
+<p align="center">
+  <a href="https://openbadgefactory.com/obv3/credentials/c972421ddc8e8db451bb6df7a47ba453b02c346a" target="_blank">
+    <img src="badge-talento-tech.png" width="450" alt="Certificado Talento Tech Bruno Rios" style="border-radius: 10px; border: 2px solid #007bff;" />
+  </a>
+  <br>
+  <em>Insignia oficial de Front-End JS emitida por Talento Tech.</em>
+</p>
+
+---
+
+## Estadísticas de GitHub
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brunorios21&show_icons=true&theme=tokyonight&count_private=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorios21&layout=compact&theme=tokyonight&langs_count=8" width="350" />
@@ -78,13 +81,19 @@ Actualmente, estoy ampliando mi stack tecnológico realizando un curso de **Reac
 
 ---
 
-##  Contacto
+## Contacto
+
 <p align="center">
-<a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-## Proyecto Integrador: PC Tech | Hardware Profesional - Talento Tech Buenos Aires
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=brunorios21&label=Perfil%20Visto&color=007bff&style=flat-square" alt="brunorios21" />
+</p>
 ---
 
 ## Proyecto Destacado: PC Tech Store
