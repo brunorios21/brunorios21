@@ -84,7 +84,7 @@ Actualmente, estoy ampliando mi stack tecnológico realizando un curso de **Reac
 ## Contacto
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-rios-576016328/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
