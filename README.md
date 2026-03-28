@@ -142,47 +142,78 @@ Me motiva el **aprendizaje constante**, la **calidad del código** y el **impact
 
 ## Proyecto Integrador: PC Tech | Hardware Profesional - Talento Tech Buenos Aires
 
-<p align="center">
-  <a href="https://brunorios21.github.io/Entrega-Final-Talento-Tech/">
-    <img src="https://raw.githubusercontent.com/brunorios21/Entrega-Final-Talento-Tech/main/screenshot.jpg" alt="PC Tech Interface" width="900" style="border-radius: 8px; border: 1px solid #30363d;">
-  </a>
-</p>
-
-### Especificaciones del Desarrollo
-Este sistema representa la **Entrega Final** del curso **Front-End JS** dictado en **Buenos Aires** por el programa **Talento Tech**. La plataforma es una solución integral de E-commerce para hardware de alto rendimiento, optimizada para una navegación fluida y una gestión de datos reactiva.
-
 ---
 
-## Análisis Técnico y Fundamentos de Programación (JS)
+## 💻 Proyecto Destacado: PC Tech Store
 
-La arquitectura de este proyecto aplica los conceptos core de JavaScript moderno desarrollados durante el trayecto formativo:
+> **Entrega Final - Programa Talento Tech (Buenos Aires)** > Esta plataforma es una solución integral de E-commerce para hardware de alto rendimiento, optimizada para una navegación fluida y una gestión de datos reactiva.
 
-### 1. Gestión de Datos mediante Objetos Literales
-Se implementó una estructura de datos basada en objetos para la representación técnica de cada componente del catálogo.
+<p align="center">
+  <img src="Presentacion1.png" width="850" alt="PC Tech Store Home" style="border-radius: 10px; border: 1px solid #30363d;">
+</p>
+
+### Especificaciones del Desarrollo y Arquitectura
+La arquitectura de este proyecto aplica los conceptos core de **JavaScript Moderno (ES6+)** desarrollados durante el trayecto formativo en Talento Tech:
+
+#### 1. Gestión de Datos mediante Objetos Literales
+Se implementó una estructura de datos robusta para la representación técnica de cada componente:
 * **Encapsulamiento:** Agrupación de atributos críticos (precio, stock, descripción) dentro de una única unidad lógica.
 * **Acceso Dinámico:** Uso de notación de corchetes `objeto[key]` para permitir la búsqueda de propiedades mediante variables dinámicas, facilitando la interacción entre la interfaz y la lógica de negocio.
 
-### 2. Procesamiento de Colecciones: Paradigma Funcional
-Se priorizó el uso de métodos de orden superior (Higher-Order Functions) para garantizar un código declarativo y eficiente:
-* **Método `.filter()`**: Implementación de lógica de filtrado multivariable (precio, categoría y disponibilidad) mediante el uso de operadores lógicos combinados.
-* **Método `.find()`**: Optimización en la recuperación de identificadores únicos para la gestión del carrito y detalles de producto, minimizando el impacto en el rendimiento al detener la iteración tras la primera coincidencia.
+#### 2. Procesamiento de Colecciones (Paradigma Funcional)
+Se priorizó el uso de **Higher-Order Functions** para garantizar un código declarativo y eficiente:
+* **Método `.filter()`:** Implementación de lógica de filtrado multivariable (precio, categoría y disponibilidad).
+* **Método `.find()`:** Optimización en la recuperación de identificadores únicos para la gestión del carrito, deteniendo la iteración tras la primera coincidencia para mejorar el rendimiento.
 
-### 3. Sintaxis Moderna y Eficiencia (ES6+)
-* **Arrow Functions:** Implementación de funciones flecha para simplificar la sintaxis de los callbacks y mantener un contexto léxico claro.
-* **Clean Code:** Estructura de funciones modulares que separan la lógica de procesamiento de datos de la manipulación directa del DOM.
+#### 3. Sintaxis Moderna y Eficiencia
+* **Arrow Functions:** Implementación de funciones flecha para simplificar callbacks y mantener un contexto léxico claro.
+* **Clean Code:** Estructura de funciones modulares que separan la lógica de procesamiento de datos de la manipulación del DOM.
 
 ---
 
-### Acceso Directo al Proyecto
-* **Repositorio:** [github.com/brunorios21/Entrega-Final-Talento-Tech](https://github.com/brunorios21/Entrega-Final-Talento-Tech)
-* **Despliegue (Live Demo):** [PC Tech | Hardware Profesional](https://brunorios21.github.io/Entrega-Final-Talento-Tech/)
+###  Galería del Sistema
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="Catalogo2.png" alt="Catálogo" style="border-radius: 5px;">
+      <br><b>Catálogo Dinámico:</b> Renderizado mediante consumo de API y filtrado en tiempo real.
+    </td>
+    <td width="50%">
+      <img src="Especificaciones3.png" alt="Detalles" style="border-radius: 5px;">
+      <br><b>Detalle Técnico:</b> Modal con recuperación de datos estructurados por ID.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="ArmadorDePC4.png" width="600" alt="Armador PC" style="border-radius: 5px;">
+      <br><b>Configurador de Hardware:</b> Lógica de estado complejo para validación de compatibilidad entre componentes.
+    </td>
+  </tr>
+</table>
+
+---
+
+## Enlaces del Proyecto
 
 <p align="center">
-  <a href="https://brunorios21.github.io/Entrega-Final-Talento-Tech/">
-    <img src="https://img.shields.io/badge/Visualizar_Proyecto-Live_Demo-007bff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://github.com/brunorios21/Entrega-Final-Talento-Tech" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Código_Fuente-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://brunorios21.github.io/Entrega-Final-Talento-Tech/
+
+Resources
+" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Demo_En_Vivo-2563EB?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Terminado-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Versión-1.0.0-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Licencia-MIT-yellow?style=flat-square" />
+</p>
+
 ---
 <h4 align="center">“La innovación nace del aprendizaje constante y la pasión por construir algo mejor.”</h4>
