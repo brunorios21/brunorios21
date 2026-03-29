@@ -1,13 +1,13 @@
 # Hola, soy Bruno Ríos
 
-**Estudiante de Analista de Sistemas en la UNPAZ | Software Developer**
+**Estudiante de Gestión de Tecnologías de la Información en la UNPAZ | Software Developer**
 
 ---
 
 ## Sobre mí
 
 
-Soy estudiante de la carrera de **Analista de Sistemas** en la Universidad Nacional de José C. Paz (UNPAZ), con una formación sólida en curso y en constante desarrollo.
+Soy estudiante de la carrera de **Lic. en Gestión de Tecnologías de la Información** en la Universidad Nacional de José C. Paz (UNPAZ), con una formación sólida en curso y en constante desarrollo.
 
 Me apasiona la tecnología desde un enfoque integral, combinando conocimientos de **hardware** y **desarrollo de software**. Tengo experiencia en el armado, mantenimiento y optimización de equipos, lo que me permite comprender los sistemas desde la infraestructura hasta las aplicaciones.
 
