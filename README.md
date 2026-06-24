@@ -98,6 +98,7 @@ Actualmente, me encuentro enfocado tanto en las **materias de la carrera** como 
 ## Proyecto Destacado: PC Tech Store
 
 > **Entrega Final - Programa Talento Tech (Buenos Aires)** > Esta plataforma es una solución integral de E-commerce para hardware de alto rendimiento, optimizada para una navegación fluida y una gestión de datos reactiva.
+> ## Para verlo en funcionamiento haga click aquì https://brunorios21.github.io/Entrega-Final-Talento-Tech/index.html
 
 <p align="center">
   <img src="Presentacion1.png" width="850" alt="PC Tech Store Home" style="border-radius: 10px; border: 1px solid #30363d;">
