@@ -57,21 +57,27 @@ Actualmente, me encuentro enfocado tanto en las **materias de la carrera** como 
 
 ## Certificaciones Destacadas
 
-<p align="center">
-  <!-- Certificado 1: Talento Tech Front-End JS -->
-  <a href="https://openbadgefactory.com/obv3/credentials/c972421ddc8e8db451bb6df7a47ba453b02c346a" target="_blank" style="display: inline-block; margin: 10px; vertical-align: top; text-decoration: none;">
-    <img src="badge-talento-tech.png" width="380" alt="Certificado Talento Tech Bruno Rios" style="border-radius: 10px; border: 2px solid #007bff;" />
-    <br>
-    <span style="display: block; text-align: center; margin-top: 5px; color: #555;"><em>Insignia de Front-End JS (Talento Tech)</em></span>
-  </a>
-
-  <!-- Certificado 2: React JS (Ministerio de Educación) -->
-  <a href="#" style="display: inline-block; margin: 10px; vertical-align: top; text-decoration: none;">
-    <img src="React_JS_-_Certificacin.jpg" width="380" alt="Certificado React JS Bruno Rios" style="border-radius: 10px; border: 2px solid #FFD100;" />
-    <br>
-    <span style="display: block; text-align: center; margin-top: 5px; color: #555;"><em>Certificación de React JS (80 hs) - Ministerio de Educación</em></span>
-  </a>
-</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- Certificado 1: Front-End JS -->
+    <td align="center" valign="bottom" width="50%">
+      <a href="https://openbadgefactory.com/obv3/credentials/c972421ddc8e8db451bb6df7a47ba453b02c346a" target="_blank">
+        <img src="badge-talento-tech.png" width="340" alt="Certificado Talento Tech Bruno Rios" style="border-radius: 8px; border: 1px solid #e1e4e8;" />
+      </a>
+      <br><br>
+      <sub><b>Insignia Front-End JS</b><br>Talento Tech</sub>
+    </td>
+    
+    <!-- Certificado 2: React JS -->
+    <td align="center" valign="bottom" width="50%">
+      <a href="#">
+        <img src="React_JS_-_Certificacin.jpg" width="420" alt="Certificado React JS Bruno Rios" style="border-radius: 8px; border: 1px solid #e1e4e8;" />
+      </a>
+      <br><br>
+      <sub><b>Certificación React JS (80 hs)</b><br>Ministerio de Educación</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
