@@ -55,15 +55,25 @@ Actualmente, me encuentro enfocado tanto en las **materias de la carrera** como 
 
 ---
 
-## Certificación destacada
+## Certificaciones Destacadas
 
 <p align="center">
-  <a href="https://openbadgefactory.com/obv3/credentials/c972421ddc8e8db451bb6df7a47ba453b02c346a" target="_blank">
-    <img src="badge-talento-tech.png" width="450" alt="Certificado Talento Tech Bruno Rios" style="border-radius: 10px; border: 2px solid #007bff;" />
+  <!-- Certificado 1: Talento Tech Front-End JS -->
+  <a href="https://openbadgefactory.com/obv3/credentials/c972421ddc8e8db451bb6df7a47ba453b02c346a" target="_blank" style="display: inline-block; margin: 10px; vertical-align: top; text-decoration: none;">
+    <img src="badge-talento-tech.png" width="380" alt="Certificado Talento Tech Bruno Rios" style="border-radius: 10px; border: 2px solid #007bff;" />
+    <br>
+    <span style="display: block; text-align: center; margin-top: 5px; color: #555;"><em>Insignia de Front-End JS (Talento Tech)</em></span>
   </a>
-  <br>
-  <em>Insignia oficial de Front-End JS emitida por Talento Tech.</em>
+
+  <!-- Certificado 2: React JS (Ministerio de Educación) -->
+  <a href="#" style="display: inline-block; margin: 10px; vertical-align: top; text-decoration: none;">
+    <img src="React_JS_-_Certificacin.jpg" width="380" alt="Certificado React JS Bruno Rios" style="border-radius: 10px; border: 2px solid #FFD100;" />
+    <br>
+    <span style="display: block; text-align: center; margin-top: 5px; color: #555;"><em>Certificación de React JS (80 hs) - Ministerio de Educación</em></span>
+  </a>
 </p>
+
+---
 
 ---
 
