@@ -54,32 +54,28 @@ Actualmente, me encuentro enfocado tanto en las **materias de la carrera** como 
 </p>
 
 ---
-
 ## Certificaciones Destacadas
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <!-- Certificado 1: Front-End JS -->
-    <td align="center" valign="bottom" width="50%">
-      <a href="https://openbadgefactory.com/obv3/credentials/c972421ddc8e8db451bb6df7a47ba453b02c346a" target="_blank">
-        <img src="badge-talento-tech.png" width="340" alt="Certificado Talento Tech Bruno Rios" style="border-radius: 8px; border: 1px solid #e1e4e8;" />
-      </a>
-      <br><br>
-      <sub><b>Insignia Front-End JS</b><br>Talento Tech</sub>
-    </td>
-    
-    <!-- Certificado 2: React JS -->
-    <td align="center" valign="bottom" width="50%">
-      <a href="#">
-        <img src="React_JS_-_Certificacin.jpg" width="420" alt="Certificado React JS Bruno Rios" style="border-radius: 8px; border: 1px solid #e1e4e8;" />
-      </a>
-      <br><br>
-      <sub><b>Certificación React JS (80 hs)</b><br>Ministerio de Educación</sub>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-end; gap: 20px; flex-wrap: wrap;">
 
----
+  <div style="text-align: center; max-width: 340px;">
+    <a href="https://openbadgefactory.com/obv3/credentials/c972421ddc8e8db451bb6df7a47ba453b02c346a" target="_blank">
+      <img src="badge-talento-tech.png" width="320" alt="Certificado Talento Tech Bruno Rios" style="border-radius: 8px; border: 1px solid #e1e4e8;" />
+    </a>
+    <br><br>
+    <sub><b>Insignia Front-End JS</b><br>Talento Tech</sub>
+  </div>
+  
+  <div style="text-align: center; max-width: 440px;">
+    <a href="#">
+      <img src="React_JS_-_Certificacin.jpg" width="420" alt="Certificado React JS Bruno Rios" style="border-radius: 8px; border: 1px solid #e1e4e8;" />
+    </a>
+    <br><br>
+    <sub><b>Certificación React JS (80 hs)</b><br>Ministerio de Educación</sub>
+  </div>
+
+</div>
+
 
 ---
 
