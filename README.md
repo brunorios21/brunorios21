@@ -106,6 +106,7 @@ Actualmente, me encuentro enfocado tanto en las **materias de la carrera** como 
   <img src="https://komarev.com/ghpvc/?username=brunorios21&label=Perfil%20Visto&color=007bff&style=flat-square" alt="brunorios21" />
 </p>
 ---
+
 ## Proyecto Destacado: ARKHÉ
 
 > Esta plataforma es una solución integral para estudio de arquitectura y estimación de precisión, optimizada para una navegación fluida y una presentación reactiva de proyectos.
