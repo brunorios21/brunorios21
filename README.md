@@ -106,52 +106,65 @@ Actualmente, me encuentro enfocado tanto en las **materias de la carrera** como 
   <img src="https://komarev.com/ghpvc/?username=brunorios21&label=Perfil%20Visto&color=007bff&style=flat-square" alt="brunorios21" />
 </p>
 ---
+## Proyecto Destacado: ARKHÉ
 
-## Proyecto Destacado: PC Tech Store
-
-> **Entrega Final - Programa Talento Tech (Buenos Aires)** > Esta plataforma es una solución integral de E-commerce para hardware de alto rendimiento, optimizada para una navegación fluida y una gestión de datos reactiva.
+> **Entrega Final - Programa Talento Tech (Buenos Aires)** > Esta plataforma es una solución integral de E-commerce y arquitectura, optimizada para una navegación fluida y una gestión de datos reactiva.
 > ## Para verlo en funcionamiento haga click aquì https://brunorios21.github.io/Entrega-Final-Talento-Tech/index.html
 
 <p align="center">
-  <img src="Presentacion1.png" width="850" alt="PC Tech Store Home" style="border-radius: 10px; border: 1px solid #30363d;">
+  <img src="imagen1.jpg" width="850" alt="ARKHÉ Home" style="border-radius: 10px; border: 1px solid #30363d;">
 </p>
 
 ### Especificaciones del Desarrollo y Arquitectura
 La arquitectura de este proyecto aplica los conceptos core de **JavaScript Moderno (ES6+)** desarrollados durante el trayecto formativo en Talento Tech:
 
-#### 1. Gestión de Datos mediante Objetos Literales
+#### Gestión de Datos mediante Objetos Literales
 Se implementó una estructura de datos robusta para la representación técnica de cada componente:
 * **Encapsulamiento:** Agrupación de atributos críticos (precio, stock, descripción) dentro de una única unidad lógica.
 * **Acceso Dinámico:** Uso de notación de corchetes `objeto[key]` para permitir la búsqueda de propiedades mediante variables dinámicas, facilitando la interacción entre la interfaz y la lógica de negocio.
 
-#### 2. Procesamiento de Colecciones (Paradigma Funcional)
+#### Procesamiento de Colecciones (Paradigma Funcional)
 Se priorizó el uso de **Higher-Order Functions** para garantizar un código declarativo y eficiente:
 * **Método `.filter()`:** Implementación de lógica de filtrado multivariable (precio, categoría y disponibilidad).
 * **Método `.find()`:** Optimización en la recuperación de identificadores únicos para la gestión del carrito, deteniendo la iteración tras la primera coincidencia para mejorar el rendimiento.
 
-#### 3. Sintaxis Moderna y Eficiencia
+#### Sintaxis Moderna y Eficiencia
 * **Arrow Functions:** Implementación de funciones flecha para simplificar callbacks y mantener un contexto léxico claro.
 * **Clean Code:** Estructura de funciones modulares que separan la lógica de procesamiento de datos de la manipulación del DOM.
 
 ---
 
-###  Galería del Sistema
+### Galería del Sistema
 
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="Catalogo2.png" alt="Catálogo" style="border-radius: 5px;">
-      <br><b>Catálogo Dinámico:</b> Renderizado mediante consumo de API y filtrado en tiempo real.
+      <img src="imagen2.jpg" alt="Nuestra Mirada" style="border-radius: 5px;">
+      <br><b>Nuestra Mirada:</b> Sección sobre la metodología y visión del estudio.
     </td>
     <td width="50%">
-      <img src="Especificaciones3.png" alt="Detalles" style="border-radius: 5px;">
-      <br><b>Detalle Técnico:</b> Modal con recuperación de datos estructurados por ID.
+      <img src="imagen3.jpg" alt="Servicios Integrales" style="border-radius: 5px;">
+      <br><b>Servicios Integrales:</b> Descripción detallada de las cuatro áreas de servicio principales.
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="ArmadorDePC4.png" width="600" alt="Armador PC" style="border-radius: 5px;">
-      <br><b>Configurador de Hardware:</b> Lógica de estado complejo para validación de compatibilidad entre componentes.
+    <td width="50%">
+      <img src="imagen4.jpg" alt="Sección de Estimaciones" style="border-radius: 5px;">
+      <br><b>Sección de Estimaciones:</b> Estadísticas clave sobre la precisión y experiencia del estudio.
+    </td>
+    <td width="50%">
+      <img src="imagen5.jpg" alt="Casa MH - Vista Interior" style="border-radius: 5px;">
+      <br><b>Casa MH - Vista Interior:</b> Ejemplo de proyecto destacado de interiorismo.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="imagen6.jpg" alt="Vivienda CM - Proyecto residencial" style="border-radius: 5px;">
+      <br><b>Vivienda CM:</b> Vista combinada de cocina moderna y exterior de la vivienda.
+    </td>
+    <td width="50%">
+      <img src="imagen7.jpg" alt="Sección de Contacto y Footer" style="border-radius: 5px;">
+      <br><b>Contacto y Footer:</b> Formulario final para contacto y enlaces institucionales.
     </td>
   </tr>
 </table>
@@ -165,10 +178,7 @@ Se priorizó el uso de **Higher-Order Functions** para garantizar un código dec
     <img src="https://img.shields.io/badge/Ver_Código_Fuente-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://brunorios21.github.io/Entrega-Final-Talento-Tech/
-
-Resources
-" target="_blank">
+  <a href="https://brunorios21.github.io/Entrega-Final-Talento-Tech/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Ver_Demo_En_Vivo-2563EB?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo" />
   </a>
 </p>
@@ -180,4 +190,4 @@ Resources
 </p>
 
 ---
-<h4 align="center">“La innovación nace del aprendizaje constante y la pasión por construir algo mejor.”</h4>
+<h4 align="center">ARKHÉ</h4>
