@@ -112,7 +112,7 @@ Actualmente, me encuentro enfocado tanto en las **materias de la carrera** como 
 > ## Para verlo en funcionamiento haga click aquì https://brunorios21.github.io/Entrega-Final-Talento-Tech/index.html
 
 <p align="center">
-  <img src="imagen1.jpg" width="850" alt="ARKHÉ Home" style="border-radius: 10px; border: 1px solid #30363d;">
+  <img src="capturas_del_proyecto01/imagen1.jpg" width="850" alt="ARKHÉ Home" style="border-radius: 10px; border: 1px solid #30363d;">
 </p>
 
 ### Especificaciones del Desarrollo y Arquitectura
@@ -139,31 +139,31 @@ Se priorizó el uso de **Higher-Order Functions** para garantizar un código dec
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="imagen2.jpg" alt="Nuestra Mirada" style="border-radius: 5px;">
+      <img src="capturas_del_proyecto01/imagen2.jpg" alt="Nuestra Mirada" style="border-radius: 5px;">
       <br><b>Nuestra Mirada:</b> Sección sobre la metodología y visión del estudio.
     </td>
     <td width="50%">
-      <img src="imagen3.jpg" alt="Servicios Integrales" style="border-radius: 5px;">
+      <img src="capturas_del_proyecto01/imagen3.jpg" alt="Servicios Integrales" style="border-radius: 5px;">
       <br><b>Servicios Integrales:</b> Descripción detallada de las cuatro áreas de servicio principales.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="imagen4.jpg" alt="Sección de Estimaciones" style="border-radius: 5px;">
+      <img src="capturas_del_proyecto01/imagen4.jpg" alt="Sección de Estimaciones" style="border-radius: 5px;">
       <br><b>Sección de Estimaciones:</b> Estadísticas clave sobre la precisión y experiencia del estudio.
     </td>
     <td width="50%">
-      <img src="imagen5.jpg" alt="Casa MH - Vista Interior" style="border-radius: 5px;">
+      <img src="capturas_del_proyecto01/imagen5.jpg" alt="Casa MH - Vista Interior" style="border-radius: 5px;">
       <br><b>Casa MH - Vista Interior:</b> Ejemplo de proyecto destacado de interiorismo.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="imagen6.jpg" alt="Vivienda CM - Proyecto residencial" style="border-radius: 5px;">
+      <img src="capturas_del_proyecto01/imagen6.jpg" alt="Vivienda CM - Proyecto residencial" style="border-radius: 5px;">
       <br><b>Vivienda CM:</b> Vista combinada de cocina moderna y exterior de la vivienda.
     </td>
     <td width="50%">
-      <img src="imagen7.jpg" alt="Sección de Contacto y Footer" style="border-radius: 5px;">
+      <img src="capturas_del_proyecto01/imagen7.jpg" alt="Sección de Contacto y Footer" style="border-radius: 5px;">
       <br><b>Contacto y Footer:</b> Formulario final para contacto y enlaces institucionales.
     </td>
   </tr>
