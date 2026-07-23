@@ -107,7 +107,7 @@ Actualmente, me encuentro enfocado tanto en las **materias de la carrera** como 
 </p>
 ---
 
-## Proyecto Destacado: ARKHÉ
+## Proyecto Destacado: ARKHE
 
 > Esta plataforma es una solución integral para estudio de arquitectura y estimación de precisión, optimizada para una navegación fluida y una presentación reactiva de proyectos.
 > ## Para verlo en funcionamiento haga click aquí https://arkhestudio-01.netlify.app/
