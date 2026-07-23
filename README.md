@@ -108,25 +108,25 @@ Actualmente, me encuentro enfocado tanto en las **materias de la carrera** como 
 ---
 ## Proyecto Destacado: ARKHÉ
 
-> **Entrega Final - Programa Talento Tech (Buenos Aires)** > Esta plataforma es una solución integral de E-commerce y arquitectura, optimizada para una navegación fluida y una gestión de datos reactiva.
-> ## Para verlo en funcionamiento haga click aquì https://brunorios21.github.io/Entrega-Final-Talento-Tech/index.html
+> Esta plataforma es una solución integral para estudio de arquitectura y estimación de precisión, optimizada para una navegación fluida y una presentación reactiva de proyectos.
+> ## Para verlo en funcionamiento haga click aquí https://arkhestudio-01.netlify.app/
 
 <p align="center">
   <img src="capturas_del_proyecto01/imagen1.jpg" width="850" alt="ARKHÉ Home" style="border-radius: 10px; border: 1px solid #30363d;">
 </p>
 
 ### Especificaciones del Desarrollo y Arquitectura
-La arquitectura de este proyecto aplica los conceptos core de **JavaScript Moderno (ES6+)** desarrollados durante el trayecto formativo en Talento Tech:
+La arquitectura de este proyecto aplica los conceptos core de **JavaScript Moderno (ES6+)**:
 
 #### Gestión de Datos mediante Objetos Literales
-Se implementó una estructura de datos robusta para la representación técnica de cada componente:
-* **Encapsulamiento:** Agrupación de atributos críticos (precio, stock, descripción) dentro de una única unidad lógica.
-* **Acceso Dinámico:** Uso de notación de corchetes `objeto[key]` para permitir la búsqueda de propiedades mediante variables dinámicas, facilitando la interacción entre la interfaz y la lógica de negocio.
+Se implementó una estructura de datos robusta para la representación técnica de cada proyecto y servicio:
+* **Encapsulamiento:** Agrupación de atributos críticos (especificaciones, categorías, imágenes) dentro de una única unidad lógica.
+* **Acceso Dinámico:** Uso de notación de corchetes `objeto[key]` para permitir la búsqueda de propiedades mediante variables dinámicas, facilitando la interacción entre la interfaz y la lógica de presentación.
 
 #### Procesamiento de Colecciones (Paradigma Funcional)
 Se priorizó el uso de **Higher-Order Functions** para garantizar un código declarativo y eficiente:
-* **Método `.filter()`:** Implementación de lógica de filtrado multivariable (precio, categoría y disponibilidad).
-* **Método `.find()`:** Optimización en la recuperación de identificadores únicos para la gestión del carrito, deteniendo la iteración tras la primera coincidencia para mejorar el rendimiento.
+* **Método `.filter()`:** Implementación de lógica de filtrado multivariable (por tipo de servicio o categoría de proyecto).
+* **Método `.find()`:** Optimización en la recuperación de identificadores únicos para la visualización detallada de proyectos en modales.
 
 #### Sintaxis Moderna y Eficiencia
 * **Arrow Functions:** Implementación de funciones flecha para simplificar callbacks y mantener un contexto léxico claro.
@@ -174,11 +174,11 @@ Se priorizó el uso de **Higher-Order Functions** para garantizar un código dec
 ## Enlaces del Proyecto
 
 <p align="center">
-  <a href="https://github.com/brunorios21/Entrega-Final-Talento-Tech" target="_blank">
+  <a href="https://github.com/brunorios21/ARKHE" target="_blank">
     <img src="https://img.shields.io/badge/Ver_Código_Fuente-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://brunorios21.github.io/Entrega-Final-Talento-Tech/index.html" target="_blank">
+  <a href="https://arkhestudio-01.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Ver_Demo_En_Vivo-2563EB?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Demo" />
   </a>
 </p>
