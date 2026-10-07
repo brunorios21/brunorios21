@@ -24,15 +24,6 @@ Actualmente, me encuentro enfocado tanto en las **materias de la carrera** como 
 - **Enfoque actual:** Desarrollo de interfaces reactivas y gestión de estados para mejorar la experiencia de usuario.
 - **Stack principal:** JavaScript y Python, priorizando código limpio, modular y mantenible.
 
----
-
-## Stack Tecnológico
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,flask,html,css,tailwind,postgres,mysql,docker,linux,git,github,vscode,postman,vite&theme=dark&perline=6" />
-  </a>
-</div>
 
 ---
 
