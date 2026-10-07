@@ -1,9 +1,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2EBC4F&center=true&vCenter=true&width=800&lines=Hola,+soy+Bruno+R%C3%ADos;Estudiante+de+Gesti%C3%B3n+de+TI+en+la+UNPAZ;Software+Developer;Entusiasta+del+Hardware,+Redes+y+Linux" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hola,+soy+Bruno+R%C3%ADos;Estudiante+de+Gesti%C3%B3n+de+TI+en+la+UNPAZ;Software+Developer;Entusiasta+del+Hardware,+Redes+y+Linux" alt="Typing SVG" />
   </a>
 </div>
-
 ---
 
 ## Sobre mí
