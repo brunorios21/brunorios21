@@ -7,23 +7,24 @@
 
 ## Sobre mí
 
-Soy estudiante de la carrera de **Lic. en Gestión de Tecnologías de la Información** en la Universidad Nacional de José C. Paz (UNPAZ), con una formación sólida en curso y en constante desarrollo.
+> **Estudiante de Lic. en Gestión de Tecnologías de la Información** — *Universidad Nacional de José C. Paz (UNPAZ)*
 
-Me apasiona la tecnología desde un enfoque integral, combinando conocimientos de **hardware** y **desarrollo de software**. Tengo experiencia en el armado, mantenimiento y optimización de equipos, lo que me permite comprender los sistemas desde la infraestructura hasta las aplicaciones.
+Abordo la tecnología desde un enfoque integral. Mi experiencia combinando **armado, mantenimiento y optimización de hardware** con el **desarrollo de software** me permite comprender los sistemas en su totalidad: desde la infraestructura base hasta la aplicación final.
 
-Tengo un fuerte interés en el área de **redes** y en **bases de datos**, donde continúo formándome y profundizando conocimientos.
+Actualmente busco consolidarme como desarrollador **Full Stack**, complementando las materias de mi carrera con especializaciones prácticas intensivas.
 
-Trabajo habitualmente en entornos **Linux** y utilizo **Docker** para la gestión de contenedores, lo que me permite desenvolverme en ambientes modernos de desarrollo.
+* **Entornos y DevOps:** Trabajo habitualmente en entornos <kbd>Linux</kbd> y utilizo <kbd>Docker</kbd> para la gestión ágil de contenedores.
+* **Áreas de Interés:** Continúo formándome y profundizando mis conocimientos en el diseño de **redes** y **bases de datos**.
 
-Actualmente, me encuentro enfocado tanto en las **materias de la carrera** como en mi formación práctica, realizando un curso de **React** en **Talento Tech**, con el objetivo de consolidarme como desarrollador **Full Stack**.
+---
 
-## Formación y enfoque
+## Formación y Enfoque
 
-- **Formación:** Completé el trayecto de Front-End JS en Talento Tech y actualmente me encuentro especializándome en React.
-- **Enfoque actual:** Desarrollo de interfaces reactivas y gestión de estados para mejorar la experiencia de usuario.
-- **Stack principal:** JavaScript y Python, priorizando código limpio, modular y mantenible.
-
-
+| Área | Detalle |
+| :--- | :--- |
+| **Trayecto** | Front-End JS completado en *Talento Tech*. Actualmente especializándome en **React**. |
+| **Visión** | Desarrollo de interfaces reactivas y gestión de estados para optimizar la experiencia de usuario. |
+| **Stack Core** | <kbd>JavaScript</kbd> y <kbd>Python</kbd> — Priorizando siempre el código limpio, modular y mantenible. |
 ---
 
 ## Actividad de Desarrollo
