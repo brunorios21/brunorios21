@@ -1,37 +1,27 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2EBC4F&center=true&vCenter=true&width=800&lines=Hola,+soy+Bruno+R%C3%ADos;Estudiante+de+Gesti%C3%B3n+de+TI+en+la+UNPAZ;Software+Developer;Entusiasta+del+Hardware,+Redes+y+Linux" alt="Typing SVG" />
-  </a>
-</div>
+name: Generate Snake Animation
 
----
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-## Sobre mí
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-Soy estudiante de la carrera de **Lic. en Gestión de Tecnologías de la Información** en la Universidad Nacional de José C. Paz (UNPAZ), con una formación sólida en curso y en constante desarrollo.
-
-Me apasiona la tecnología desde un enfoque integral, combinando conocimientos de **hardware** y **desarrollo de software**. Tengo experiencia en el armado, mantenimiento y optimización de equipos, lo que me permite comprender los sistemas desde la infraestructura hasta las aplicaciones.
-
-Tengo un fuerte interés en el área de **redes** y en **bases de datos**, donde continúo formándome y profundizando conocimientos.
-
-Trabajo habitualmente en entornos **Linux** y utilizo **Docker** para la gestión de contenedores, lo que me permite desenvolverme en ambientes modernos de desarrollo.
-
-Actualmente, me encuentro enfocado tanto en las **materias de la carrera** como en mi formación práctica, realizando un curso de **React** en **Talento Tech**, con el objetivo de consolidarme como desarrollador **Full Stack**.
-
-## Formación y enfoque
-
-- **Formación:** Completé el trayecto de Front-End JS en Talento Tech y actualmente me encuentro especializándome en React.
-- **Enfoque actual:** Desarrollo de interfaces reactivas y gestión de estados para mejorar la experiencia de usuario.
-- **Stack principal:** JavaScript y Python, priorizando código limpio, modular y mantenible.
-
----
-
-## Estadísticas en GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
-</div>
 ## Stack Tecnológico
 
 ### Frontend
