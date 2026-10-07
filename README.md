@@ -1,11 +1,12 @@
-# Hola, soy Bruno Ríos
-
-**Estudiante de Gestión de Tecnologías de la Información en la UNPAZ | Software Developer**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2EBC4F&center=true&vCenter=true&width=800&lines=Hola,+soy+Bruno+R%C3%ADos;Estudiante+de+Gesti%C3%B3n+de+TI+en+la+UNPAZ;Software+Developer;Entusiasta+del+Hardware,+Redes+y+Linux" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
 ## Sobre mí
-
 
 Soy estudiante de la carrera de **Lic. en Gestión de Tecnologías de la Información** en la Universidad Nacional de José C. Paz (UNPAZ), con una formación sólida en curso y en constante desarrollo.
 
@@ -25,6 +26,12 @@ Actualmente, me encuentro enfocado tanto en las **materias de la carrera** como 
 
 ---
 
+## Estadísticas en GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
+</div>
 ## Stack Tecnológico
 
 ### Frontend
